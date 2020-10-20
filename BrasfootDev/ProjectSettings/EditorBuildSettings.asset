@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: a893d8d80f0b94ceb8434758b737485f
+  - enabled: 1
+    path: Assets/Scenes/TeamSelection.unity
+    guid: 6d7a6423288644470b925018c3619d18
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 51d951ab56e514a09a48842735490c02
+  - enabled: 1
+    path: Assets/Scenes/FightScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
